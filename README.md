@@ -1,4 +1,9 @@
-# 电子科技大学校园网自动认证登录 Windows 一键部署工具
+# UESTC Campus Auto Login Windows
+
+电子科技大学校园网自动认证登录 Windows 一键部署工具。
+
+本项目用于电子科技大学校园网自动认证登录，支持 Windows 环境下的一键部署和自动运行。
+
 
 这是一个给 Windows 用户使用的电子科技大学校园网自动登录工具。
 
